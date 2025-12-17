@@ -1,10 +1,10 @@
-<img src="https://cdn.discordapp.com/attachments/1429019636455964702/1450773998194659328/file_000000000f7c7246a4da4e198efdb71b.png" width="100%" alt="ZombieApocalypse Banner">
+<img src="https://raw.githubusercontent.com/vinayakkirtan00-sketch/photos/refs/heads/main/file_0000000074887246a9f93369430015db%20(2).png" width="100%" alt="ZombieApocalypse Banner">
 
 <br><br>
 
 ## ZombieApocalypse
 
-ZombieApocalypse is a survival-focused Minecraft plugin that brings a full zombie apocalypse experience to your server with custom zombies, smart AI, bosses, infection mechanics, loot crates, safe zones, and a competitive kill leaderboard.
+ZombieApocalypse is a survival-focused Minecraft plugin that brings a full zombie apocalypse experience to your server. It features custom zombies with unique abilities, smart AI, infection mechanics, boss zombies, loot crates, safe zones, and zombie kill tracking.
 
 ---
 
@@ -12,18 +12,18 @@ ZombieApocalypse is a survival-focused Minecraft plugin that brings a full zombi
 
 - Custom zombies with unique abilities  
 - Smart zombie AI with advanced targeting  
-- Infection system that increases survival difficulty  
+- Infection system for hardcore survival  
 - Powerful boss zombies  
-- Loot crates from zombies  
+- Loot crate drops from zombies  
 - Safe zones with reduced zombie effects  
-- Zombie kill stats and leaderboard
+- Zombie kill stats and leaderboard  
 
 ---
 
 ## Commands
 
 /apocalypse – Manage apocalypse settings  
-/zombie – Zombie-related commands  
+/apo – Show help and list all plugin commands  
 
 ---
 
